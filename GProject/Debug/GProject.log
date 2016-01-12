@@ -1,0 +1,21 @@
+﻿  main.cpp
+d:\gtk+\include\gtk-3.0\gdk\gdkversionmacros.h : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+d:\gtk+\include\gtk-3.0\gdk\gdkversionmacros.h : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+d:\gtk+\include\gtk-3.0\gdk\gdkversionmacros.h : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+d:\gtk+\include\gtk-3.0\gdk\gdkversionmacros.h : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+d:\gtk+\include\gtk-3.0\gdk\gdkversionmacros.h : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+d:\gtk+\include\gtk-3.0\gdk\gdkversionmacros.h : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+d:\gtk+\include\gtk-3.0\gdk\gdkversionmacros.h : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+d:\gtk+\include\gtk-3.0\gdk\gdkversionmacros.h : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+d:\gtk+\include\gtk-3.0\gdk\gdkversionmacros.h : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+d:\gtk+\include\gtk-3.0\gdk\gdkversionmacros.h : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+c:\users\jiang\desktop\gserver\gproject\main.cpp(107): warning C4805: “!=”: 在操作中将类型“gboolean”与类型“bool”混合不安全
+c:\users\jiang\desktop\gserver\gproject\main.cpp(112): warning C4805: “!=”: 在操作中将类型“gboolean”与类型“bool”混合不安全
+c:\users\jiang\desktop\gserver\gproject\main.cpp(223): warning C4309: “=”: 截断常量值
+c:\users\jiang\desktop\gserver\gproject\main.cpp(224): warning C4309: “=”: 截断常量值
+c:\users\jiang\desktop\gserver\gproject\main.cpp(225): warning C4309: “=”: 截断常量值
+c:\users\jiang\desktop\gserver\gproject\main.cpp(226): warning C4309: “=”: 截断常量值
+c:\users\jiang\desktop\gserver\gproject\main.cpp(250): warning C4244: “=”: 从“gdouble”转换到“gint”，可能丢失数据
+c:\users\jiang\desktop\gserver\gproject\main.cpp(251): warning C4244: “=”: 从“double”转换到“gint”，可能丢失数据
+c:\users\jiang\desktop\gserver\gproject\main.cpp(256): warning C4244: “=”: 从“gdouble”转换到“gint”，可能丢失数据
+  GProject.vcxproj -> C:\Users\jiang\Desktop\GServer\Debug\GProject.exe
